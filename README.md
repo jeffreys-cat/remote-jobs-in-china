@@ -37,6 +37,8 @@
 |[上海玖标科技](https://www.teamcode.com)|TeamCode|| [Edit](items/teamcode.yaml) |
 |[Toeverything](https://affine.pro/)|Toeverything - AFFiNE|[Jobs](https://github.com/toeverything/AFFiNE/blob/master/docs/jobs.md)| [Edit](items/toeverything.yaml) |
 |[Flomesh](https://flomesh.cn/)||| [Edit](items/flomesh.yaml) |
+|[SelectDB](https://cn.selectdb.com)|SelectDB|[招聘职位]([https://cn.selectdb.com/company](https://cn.selectdb.com/company)) [内推邮箱(加速流程)](mailto:jeffrey@selectdb.com)| [Edit](items/selectdb.yaml) |
+
 
 ## 播客
 
